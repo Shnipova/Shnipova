@@ -4,6 +4,7 @@
 
 - <b>Java</b>
   - [Custom Product builder](https://github.com/Shnipova/AutomationTest.git)
+  - [CPB. Stage ](https://github.com/Shnipova/framework-testsCPB.git)
 
 
 <h2>👨‍💻 Basic Webpage Design</h2>
