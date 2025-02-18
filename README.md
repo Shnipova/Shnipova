@@ -13,6 +13,8 @@
   - [Single-Page Website](https://github.com/Shnipova/Shnipova-page.git)
  
 <h2>📺 Videos</h2>
+- [Mastering Jira API Calls: A Complete Tutorial for Beginners](https://youtu.be/JRfbORSTBwQ?si=DVTqWJ6v9G-gkTD_)
+  - [How to Add Attachments to Jira via API in Postman + Bug Creation Guide!](https://youtu.be/8RWkVoDaQQw?si=gxNnQ6JeCAW9gEj1)
 
 
 <h2> 🤳 Connect with me:</h2>
